@@ -25,8 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/foziyaawel04-crypto/JP/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/foziyaawel04-crypto/JP/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/foziyaawel04-crypto/JP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/foziyaawel04-crypto/JP/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
