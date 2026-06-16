@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foziyaawel04-crypto/JP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/foziyaawel04-crypto/JP/tree/master/0035-search-insert-position) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/foziyaawel04-crypto/JP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/foziyaawel04-crypto/JP/tree/master/3895-count-digit-appearances) |
 ## Math
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foziyaawel04-crypto/JP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/foziyaawel04-crypto/JP/tree/master/0344-reverse-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -41,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/foziyaawel04-crypto/JP/tree/master/0035-search-insert-position) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
