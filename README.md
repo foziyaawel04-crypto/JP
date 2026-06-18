@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/foziyaawel04-crypto/JP/tree/master/0049-group-anagrams) |
 | [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/foziyaawel04-crypto/JP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/foziyaawel04-crypto/JP/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
 | [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/foziyaawel04-crypto/JP/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
