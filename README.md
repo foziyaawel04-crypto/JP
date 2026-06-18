@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/foziyaawel04-crypto/JP/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/foziyaawel04-crypto/JP/tree/master/0049-group-anagrams) |
+| [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foziyaawel04-crypto/JP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/foziyaawel04-crypto/JP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/foziyaawel04-crypto/JP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
+| [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
