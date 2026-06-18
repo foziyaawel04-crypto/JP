@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/foziyaawel04-crypto/JP/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/foziyaawel04-crypto/JP/tree/master/0049-group-anagrams) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/foziyaawel04-crypto/JP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -62,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Stack
+|  |
+| ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Greedy
+|  |
+| ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
