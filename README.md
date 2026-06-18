@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/foziyaawel04-crypto/JP/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/foziyaawel04-crypto/JP/tree/master/0049-group-anagrams) |
+| [0463-island-perimeter](https://github.com/foziyaawel04-crypto/JP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/foziyaawel04-crypto/JP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
+| [0463-island-perimeter](https://github.com/foziyaawel04-crypto/JP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/foziyaawel04-crypto/JP/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/foziyaawel04-crypto/JP/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/foziyaawel04-crypto/JP/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
