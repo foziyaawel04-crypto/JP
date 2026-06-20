@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/foziyaawel04-crypto/JP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/foziyaawel04-crypto/JP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/foziyaawel04-crypto/JP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/foziyaawel04-crypto/JP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/foziyaawel04-crypto/JP/tree/master/3895-count-digit-appearances) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/foziyaawel04-crypto/JP/tree/master/0643-maximum-average-subarray-i) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/foziyaawel04-crypto/JP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Counting
 |  |
 | ------- |
