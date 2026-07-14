@@ -1,0 +1,36 @@
+import sys
+def solve():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return
+    n = int(input_data[0])
+    m = int(input_data[1])
+    a = []
+    for i in range(2, n + 2):
+        a.append(int(input_data[i]))
+    pref_forward = [0] * (n + 1)
+    pref_backward = [0] * (n + 1)
+    for i in range(1, n):
+        damage = 0
+        if a[i-1] > a[i]:
+            damage = a[i-1] - a[i]
+        pref_forward[i+1] = pref_forward[i] + damage
+    for i in range(n - 1, 0, -1):
+        damage = 0
+        if a[i] > a[i-1]:
+            damage = a[i] - a[i-1]
+        pref_backward[i] = pref_backward[i+1] + damage
+    idx = n + 2
+    out = []
+    for _ in range(m):
+        s = int(input_data[idx])
+        t = int(input_data[idx+1])
+        idx += 2
+        if s < t:
+            ans = pref_forward[t] - pref_forward[s]
+        else:
+            ans = pref_backward[t] - pref_backward[s] 
+        out.append(str(ans))
+    print("\n".join(out))
+if __name__ == '__main__':
+    solve()
