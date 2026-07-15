@@ -1,0 +1,9 @@
+no_men, height = map(int, input().split())
+hights = list(map(int, input().split()))
+W = 0
+for i in hights:
+    if i > h:
+        W += 2
+    else:
+        W += 1
+print(W)

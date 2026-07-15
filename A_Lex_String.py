@@ -1,0 +1,37 @@
+import sys
+
+def solve():
+    t = int(sys.stdin.readline().strip())
+    for _ in range(t):
+        n, m, k = map(int, sys.stdin.readline().split())
+        a = list(sys.stdin.readline().strip())
+        b = list(sys.stdin.readline().strip())
+        
+        
+        a.sort()
+        b.sort()
+        
+        c = []
+        i, j = 0, 0 
+        
+        count_a = 0
+        count_b = 0
+        
+        
+        while i < n and j < m:
+    
+            if (a[i] < b[j] and count_a < k) or count_b == k:
+                c.append(a[i])
+                i += 1
+                count_a += 1
+                count_b = 0 
+            else:
+                c.append(b[j])
+                j += 1
+                count_b += 1
+                count_a = 0 
+                
+        print("".join(c))
+
+if __name__ == '__main__':
+    solve()

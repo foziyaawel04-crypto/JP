@@ -1,0 +1,33 @@
+import sys
+
+def solve():
+    t = int(sys.stdin.readline().strip())
+    for _ in range(t):
+        n = int(sys.stdin.readline().strip())
+        a = list(map(int, list(sys.stdin.readline().strip())))
+        
+        left = 0
+        right = n - 1
+        possible = True
+        state = 0
+        while left < right:
+            if a[left] != a[right]:
+                    if state == 0:
+                        state = 1
+                    elif state == 2:
+                        possible = False
+                        break
+            else:
+                if state == 1:
+                    state = 2
+            left += 1
+            right -= 1
+
+            
+        if possible:
+            print("Yes")
+                   
+        else:
+            print("No")
+if __name__ == '__main__':
+    solve()

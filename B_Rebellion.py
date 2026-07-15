@@ -1,0 +1,25 @@
+import sys
+
+def solve():
+    t = int(sys.stdin.readline().strip())
+    for _ in range(t):
+        n = int(sys.stdin.readline().strip())
+        a = list(map(int, sys.stdin.readline().strip().split()))
+        
+        left = 0
+        right = n - 1
+        count = 0
+        while left < right:
+            if a[left] == 1 and a[right] == 0:
+                a[left], a[right] = a[right], a[left]
+                left += 1
+                right -= 1
+                count += 1
+            else:
+                if a[left] == 0:
+                    left += 1
+                if a[right] == 1:
+                    right -= 1
+        print(count)
+if __name__ == '__main__':
+    solve()

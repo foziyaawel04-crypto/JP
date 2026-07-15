@@ -1,0 +1,26 @@
+import sys
+
+def count_blocks(s):
+    blocks = 1
+    for i in range(1, len(s)):
+        if s[i] != s[i-1]:
+            blocks += 1
+    return blocks
+
+def solve():
+    t = int(sys.stdin.readline().strip())
+    
+    for _ in range(t):
+        n = int(sys.stdin.readline().strip())
+        s = sys.stdin.readline().strip()
+        
+        max_score = 0
+        
+        for i in range(n):
+            rotated_s = s[i:] + s[:i]
+            max_score = max(max_score, count_blocks(rotated_s))
+            
+        print(max_score)
+
+if __name__ == "__main__":
+    solve()

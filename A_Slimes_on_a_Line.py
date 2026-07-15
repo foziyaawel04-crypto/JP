@@ -1,0 +1,11 @@
+import sys
+def solve():
+     t = int(sys.stdin.readline().strip())
+     for i in range(t):
+         n = int(sys.stdin.readline().strip())
+         slimes = list(map(int, sys.stdin.readline().split()))
+         slimes.sort()
+         output = (slimes[-1] -slimes[0] + 1) // 2
+         print (output)
+if __name__ == '__main__':
+   solve()
