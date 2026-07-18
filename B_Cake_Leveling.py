@@ -1,0 +1,20 @@
+import sys
+def solve():
+    t = int(sys.stdin.readline().strip())
+    for _ in range(t):
+        n = int(sys.stdin.readline().strip())
+        a = list(map(int, sys.stdin.readline().split()))
+        current_sum = 0
+        min_average = float('inf')
+        ans = []
+        for i in range(n):
+           current_sum += a[i]
+           current_avg = current_sum // (i + 1)
+           if current_avg < min_average:
+                min_average = current_avg
+                
+           ans.append(min_average) 
+        print(*(ans))
+if __name__ == "__main__":
+    solve()
+
