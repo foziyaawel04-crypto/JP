@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/foziyaawel04-crypto/JP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/foziyaawel04-crypto/JP/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/foziyaawel04-crypto/JP/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/foziyaawel04-crypto/JP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/foziyaawel04-crypto/JP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/foziyaawel04-crypto/JP/tree/master/0463-island-perimeter) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/foziyaawel04-crypto/JP/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/foziyaawel04-crypto/JP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/foziyaawel04-crypto/JP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/foziyaawel04-crypto/JP/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/foziyaawel04-crypto/JP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/foziyaawel04-crypto/JP/tree/master/0867-transpose-matrix) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/foziyaawel04-crypto/JP/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
