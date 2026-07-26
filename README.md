@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/foziyaawel04-crypto/JP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/foziyaawel04-crypto/JP/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/foziyaawel04-crypto/JP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/foziyaawel04-crypto/JP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/foziyaawel04-crypto/JP/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/foziyaawel04-crypto/JP/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/foziyaawel04-crypto/JP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/foziyaawel04-crypto/JP/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/foziyaawel04-crypto/JP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/foziyaawel04-crypto/JP/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/foziyaawel04-crypto/JP/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/foziyaawel04-crypto/JP/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/foziyaawel04-crypto/JP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
