@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Task Manager 📝</h1>
+
+    <!-- Add Task Form -->
+    <form id="taskForm" class="task-form">
+      <input type="text" id="titleInput" placeholder="Enter task title..." required />
+      <select id="priorityInput" required>
+        <option value="low">Low Priority</option>
+        <option value="medium" selected>Medium Priority</option>
+        <option value="high">High Priority</option>
+      </select>
+      <button type="submit" class="btn-add">Add Task</button>
+    </form>
+
+    <!-- Filter Section -->
+    <div class="filter-section">
+      <label for="priorityFilter">Filter Priority:</label>
+      <select id="priorityFilter">
+        <option value="all">All</option>
+        <option value="low">Low</option>
+        <option value="medium">Medium</option>
+        <option value="high">High</option>
+      </select>
+    </div>
+
+    <!-- Task List -->
+    <ul id="taskList" class="task-list"></ul>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
