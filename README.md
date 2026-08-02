@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/foziyaawel04-crypto/JP/tree/master/0917-reverse-only-letters) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/foziyaawel04-crypto/JP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/foziyaawel04-crypto/JP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/foziyaawel04-crypto/JP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/foziyaawel04-crypto/JP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/foziyaawel04-crypto/JP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/foziyaawel04-crypto/JP/tree/master/0917-reverse-only-letters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/foziyaawel04-crypto/JP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3110-score-of-a-string](https://github.com/foziyaawel04-crypto/JP/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/foziyaawel04-crypto/JP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/foziyaawel04-crypto/JP/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/foziyaawel04-crypto/JP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/foziyaawel04-crypto/JP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/foziyaawel04-crypto/JP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
@@ -167,8 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/foziyaawel04-crypto/JP/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/foziyaawel04-crypto/JP/tree/master/0037-sudoku-solver) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/foziyaawel04-crypto/JP/tree/master/2014-longest-subsequence-repeated-k-times) |
+## Enumeration
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/foziyaawel04-crypto/JP/tree/master/2014-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
