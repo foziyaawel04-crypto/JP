@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/foziyaawel04-crypto/JP/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/foziyaawel04-crypto/JP/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/foziyaawel04-crypto/JP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/foziyaawel04-crypto/JP/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/foziyaawel04-crypto/JP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/foziyaawel04-crypto/JP/tree/master/0867-transpose-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/foziyaawel04-crypto/JP/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/foziyaawel04-crypto/JP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/foziyaawel04-crypto/JP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/foziyaawel04-crypto/JP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/foziyaawel04-crypto/JP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/foziyaawel04-crypto/JP/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/foziyaawel04-crypto/JP/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/foziyaawel04-crypto/JP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/foziyaawel04-crypto/JP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/foziyaawel04-crypto/JP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/foziyaawel04-crypto/JP/tree/master/0455-assign-cookies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/foziyaawel04-crypto/JP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/foziyaawel04-crypto/JP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Monotonic Stack
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/foziyaawel04-crypto/JP/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/foziyaawel04-crypto/JP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/foziyaawel04-crypto/JP/tree/master/0643-maximum-average-subarray-i) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/foziyaawel04-crypto/JP/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/foziyaawel04-crypto/JP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/foziyaawel04-crypto/JP/tree/master/3364-minimum-positive-sum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/foziyaawel04-crypto/JP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
