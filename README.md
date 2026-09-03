@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/foziyaawel04-crypto/JP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/foziyaawel04-crypto/JP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/foziyaawel04-crypto/JP/tree/master/0917-reverse-only-letters) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/foziyaawel04-crypto/JP/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foziyaawel04-crypto/JP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/foziyaawel04-crypto/JP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3110-score-of-a-string](https://github.com/foziyaawel04-crypto/JP/tree/master/3110-score-of-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/foziyaawel04-crypto/JP/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/foziyaawel04-crypto/JP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/foziyaawel04-crypto/JP/tree/master/0643-maximum-average-subarray-i) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/foziyaawel04-crypto/JP/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/foziyaawel04-crypto/JP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/foziyaawel04-crypto/JP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/foziyaawel04-crypto/JP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
